@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="name">Name:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_contacts">Go to Contacts</string>
+    <string name="search_contact">Search Contact</string>
+    <string name="contact_lookup_key">Enter contact lookup key</string>
+</resources>
